@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+  <diagram name="Страница — 1" id="I7ImPZr1fEs_LZfsa7uC">
+    <mxGraphModel dx="1290" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#EFF7FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="710" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="92.5" width="415" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-6" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Загрузить из файла" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="92.5" width="170" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-7" value="&lt;i&gt;file.txt&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="150" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-8" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Сгенерировать" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-14" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Сохранить в файл" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="330" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Показать решение" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="410" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://repos.21-school.ru/students_repo/montoyay/A1_Maze_CPP.ID_1391674-Team_TL_montoyay.47cdcf05_b091_4d39-1/-/raw/master/misc/images/maze20.jpg;" vertex="1" parent="1">
+          <mxGeometry x="102.61" y="98.5" width="409.79" height="397.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-21" value="10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FAFAFA,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-22" value="10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FAFAFA,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="660" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-23" value="Строки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="581" y="214" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-24" value="Столбцы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="671" y="214" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="583" y="415" width="28" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-28" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.21333414713541668;arrowSize=0.575;" vertex="1" parent="1">
+          <mxGeometry x="581" y="334" width="29" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;" vertex="1" parent="1">
+          <mxGeometry x="581" y="285" width="29" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-32" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.21333414713541668;arrowSize=0.575;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="581" y="105" width="29" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-33" value="&lt;b&gt;Maze&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="620" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-34" value="+ cols_: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YGU3kdDbbDQeDVrYIYuh-33">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-35" value="+ rows_: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YGU3kdDbbDQeDVrYIYuh-33">
+          <mxGeometry y="52" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-37" value="+ maze_: std::vector&amp;lt;std::vector&amp;lt;int&amp;gt;&amp;gt;&lt;div&gt;---------------------------------------------------&lt;/div&gt;&lt;div&gt;+ cols(): int&lt;/div&gt;&lt;div&gt;+ rows(): int&lt;/div&gt;&lt;div&gt;+ operator[]: &amp;amp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;std::vector&amp;lt;int&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YGU3kdDbbDQeDVrYIYuh-33">
+          <mxGeometry y="78" width="220" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-38" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;strong data-end=&quot;166&quot; data-start=&quot;146&quot;&gt;&lt;code data-is-only-node=&quot;&quot; data-end=&quot;164&quot; data-start=&quot;148&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;MazeSerializer&lt;/font&gt;&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ read_from_file(QString file_path): Maze&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ serialize(Maze&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;maze&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;): std::vector&amp;lt;std::string&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ save_to_file(&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;std::vector&amp;lt;std::string&amp;gt; text&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;): void&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="615.5" width="286" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="YGU3kdDbbDQeDVrYIYuh-49" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;MazeBuilder&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ create_maze(int cols, int ros): Maze&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="830" width="220" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
